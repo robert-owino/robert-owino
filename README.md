@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/robahw" target="blank"><img src="https://img.shields.io/twitter/follow/robahw?logo=twitter&style=for-the-badge" alt="robahw" /></a> </p>
 
-- 🌱 I’m currently learning **React, bootstrap, Typescript**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/robert-owino](https://github.com/robert-owino)
 
-- 💬 Ask me about **JavaScript,HTML,CSS**
+- 💬 Ask me about **JavaScript,React,HTML,CSS,Bootstrap,**
 
 - 📫 How to reach me **robertowyno@gmail.com**
 
-- ⚡ Fun fact **I like reading and updating myself on new Technology**
+- ⚡ Fun fact **I like reading and updating myself on new Technology and intrested in collaborations on project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
