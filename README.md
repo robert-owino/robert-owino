@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/robert-owino](https://github.com/robert-owino)
 
-- 💬 Ask me about **JavaScript,React,HTML,CSS,Bootstrap,**
+- 💬 Ask me about **JavaScript,React,HTML,CSS,Bootstrap**
 
 - 📫 How to reach me **robertowyno@gmail.com**
 
