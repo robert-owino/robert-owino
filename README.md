@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **JavaScript,React,HTML,CSS,Bootstrap**
 
-- 📫 How to reach me **robertowyno@gmail.com**
+- 📫 How to reach me **robertowyno5@gmail.com**
 
 - ⚡ Fun fact **I like reading and updating myself on new Technology and intrested in collaborations on project**
 
